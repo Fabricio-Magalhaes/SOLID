@@ -1,9 +1,9 @@
-package isp.correto;
+package lsp.correto;
 /**
  *
  * @author Fabricio
  */
-public class ISPCORRETO {
+public class LSPCORRETO {
 
     public static void main(String[] args) {
         
